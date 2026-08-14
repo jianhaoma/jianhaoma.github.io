@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am looking for prospective Ph.D. students and can recruit one Ph.D. student per year. Research assistants are also welcome. If you are interested, please email me.
+I am looking for prospective Ph.D. students and can recruit one Ph.D. student per year. I can also host undergraduate research assistants, both in person and remotely. If you are interested, please email me.
