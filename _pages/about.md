@@ -31,7 +31,7 @@ I am a tenure-track Assistant Professor in the [Department of Industrial Enginee
 
 ## Research interests
 
-AI for optimization and optimization for AI.
+My research explores both AI for optimization and optimization for AI. On the AI-for-optimization side, I study how large language models can help solve optimization-theory problems and construct rigorous proofs. On the optimization-for-AI side, I use optimization theory to design better pretraining algorithms for large language models.
 
 ## Join my group
 
