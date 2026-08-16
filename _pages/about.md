@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor · Department of Industrial Engineering · Tsinghua University
 
 profile:
   align: right
@@ -12,6 +11,7 @@ profile:
     <p>Department of Industrial Engineering</p>
     <p>Tsinghua University</p>
     <p>Beijing, China</p>
+    <p><a href="mailto:jianhao@tsinghua.edu.cn">jianhao@tsinghua.edu.cn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
