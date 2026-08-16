@@ -35,4 +35,4 @@ My research explores both AI for optimization and optimization for AI. On the AI
 
 ## Join my group
 
-I am looking for prospective Ph.D. students and can recruit **one Ph.D. student per year**. I can also host undergraduate research assistants, both in person and remotely. If you are interested, please contact me by email.
+I welcome inquiries from prospective Ph.D. students for future admission and can recruit **one Ph.D. student per year**; the position for this year has already been filled. I can also host undergraduate research assistants, both in person and remotely. If you are interested, please contact me by email.
