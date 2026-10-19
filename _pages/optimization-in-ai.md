@@ -8,7 +8,8 @@ nav_order: 4
 ---
 
 <!-- Course information follows the current Class 01 slides in optimization_in_AI.
-     Later topics are tentative; do not publish the legacy class_02–class_14 decks.
+     Materials use the current Class 01–03 PDFs; later topics are tentative.
+     Do not publish superseded decks or archived drafts.
      Topic groups are not individual class numbers. -->
 
 How does the structure of a learning problem shape the optimizer—and how does that choice affect training?
@@ -30,16 +31,16 @@ convergence, conditioning, gradient noise, and the compute and memory constraint
 
 <div class="table-responsive" markdown="1">
 
-| Topic                       | Coverage                                                                                       | Materials |
-| :-------------------------- | :--------------------------------------------------------------------------------------------- | :-------- |
-| Introduction                | Course overview; problem structure and optimizer design                                        |           |
-| Mathematical foundations    | Matrix calculus, backpropagation, autodiff, convexity, optimality, and smoothness              |           |
-| Gradient descent            | Convergence, stepsizes, conditioning, and smooth and nonsmooth problems                        |           |
-| Stochastic gradient descent | Gradient noise, minibatches, learning-rate schedules, and convergence                          |           |
-| Momentum                    | Heavy-ball dynamics, acceleration, and stochastic averaging                                    |           |
-| Adaptive optimizers         | AdaGrad, RMSProp, Adam, and Muon                                                               |           |
-| Weight decay                | L2 regularization, decoupled weight decay, and AdamW                                           |           |
-| Selected advanced topics    | Topics chosen based on course progress and recent developments, including second-order methods |           |
+| Topic                       | Coverage                                                                                       | Materials                                                                         |
+| :-------------------------- | :--------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | ---------------- |
+| Introduction                | Course overview; problem structure and optimizer design                                        | [Slides (PDF)]({{ '/assets/pdf/optimization-in-ai/Overview.pdf'                   | relative_url }}) |
+| Mathematical foundations    | Matrix calculus, backpropagation, autodiff, convexity, optimality, and smoothness              | [Slides (PDF)]({{ '/assets/pdf/optimization-in-ai/Mathematical_Prerequisites.pdf' | relative_url }}) |
+| Gradient descent            | Convergence, stepsizes, conditioning, and smooth and nonsmooth problems                        | [Slides (PDF)]({{ '/assets/pdf/optimization-in-ai/Gradient_Descent.pdf'           | relative_url }}) |
+| Stochastic gradient descent | Gradient noise, minibatches, learning-rate schedules, and convergence                          |                                                                                   |
+| Momentum                    | Heavy-ball dynamics, acceleration, and stochastic averaging                                    |                                                                                   |
+| Adaptive optimizers         | AdaGrad, RMSProp, Adam, and Muon                                                               |                                                                                   |
+| Weight decay                | L2 regularization, decoupled weight decay, and AdamW                                           |                                                                                   |
+| Selected advanced topics    | Topics chosen based on course progress and recent developments, including second-order methods |                                                                                   |
 
 </div>
 
