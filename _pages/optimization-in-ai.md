@@ -45,7 +45,10 @@ convergence, conditioning, gradient noise, and the compute and memory constraint
 
 </div>
 
-**Guest lecture:** Yushun Zhang (DeepSeek). Date and topic to be announced.
+**Guest lectures:**
+
+- Yushun Zhang (DeepSeek). Date and topic to be announced.
+- Huaqing Zhang (Qwen). Date and topic to be announced.
 
 ## References
 
